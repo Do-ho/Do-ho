@@ -1,5 +1,3 @@
-### Hi there 👋
-
 💻 Senior of CSE at KOREATECH Univ <br/>
 🔭 JavaScript / ReactJS / Django / Python <br/>
 🦁 Like Lion 7th Member / 8th represented staff <br/>
