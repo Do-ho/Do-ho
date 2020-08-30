@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-💻 Senior of CSE at KOREATECH Univ
-🔭 JavaScript / ReactJS / Django / Python
-🦁 Like Lion 7th Member / 8th represented staff
-👨 DevelUp Excellent Mentor
-📚 2020 boostcamper
+💻 Senior of CSE at KOREATECH Univ <br/>
+🔭 JavaScript / ReactJS / Django / Python <br/>
+🦁 Like Lion 7th Member / 8th represented staff <br/>
+👨 DevelUp Excellent Mentor <br/>
+📚 2020 boostcamper <br/>
 
 
 <!--
