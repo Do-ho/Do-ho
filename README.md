@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+💻 Senior of CSE at KOREATECH Univ
+🔭 JavaScript / ReactJS / Django / Python
+🦁 Like Lion 7th Member / 8th represented staff
+👨 DevelUp Excellent Mentor
+📚 2020 boostcamper
+
+
 <!--
 **Do-ho/Do-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
