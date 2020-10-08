@@ -2,6 +2,7 @@
 😎 JavaScript / ReactJS / Django / Python / Node.js <br/>
 🦁 Like Lion 7th Member / 8th represented staff <br/>
 👨 DevelUp Excellent Mentor <br/>
+😃 Startup internship in Gallary-Via <br/>
 📚 2020 NAVER Connect Foundation boostcamper <br/>
 
 
