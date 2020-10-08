@@ -1,8 +1,8 @@
 💻 Senior of CSE at KOREATECH Univ <br/>
-🔭 JavaScript / ReactJS / Django / Python <br/>
+😎 JavaScript / ReactJS / Django / Python / Node.js <br/>
 🦁 Like Lion 7th Member / 8th represented staff <br/>
 👨 DevelUp Excellent Mentor <br/>
-📚 2020 boostcamper <br/>
+📚 2020 NAVER Connect Foundation boostcamper <br/>
 
 
 <!--
