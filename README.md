@@ -5,6 +5,7 @@
 😃 Startup internship in Gallary-Via <br/>
 📚 2020 NAVER Connect Foundation boostcamper <br/>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Do-ho)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Do-ho/Do-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
