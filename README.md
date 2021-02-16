@@ -1,5 +1,5 @@
 💻 Senior of CSE at KOREATECH Univ <br/>
-😎 JavaScript / ReactJS / Django / Python / Node.js <br/>
+😎 JavaScript / TypeScript / ReactJS / Django / Python / Node.js <br/>
 🦁 Like Lion 7th Member / 8th represented staff <br/>
 👨 DevelUp Excellent Mentor <br/>
 😃 Startup internship in Gallary-Via <br/>
