@@ -4,6 +4,7 @@
 👨 DevelUp Excellent Mentor <br/>
 😃 Startup internship in Gallary-Via <br/>
 📚 2020 NAVER Connect Foundation boostcamper <br/>
+📘 [My Blog](https://velog.io/@hong7511059)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Do-ho)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Do-ho&layout=compact)
