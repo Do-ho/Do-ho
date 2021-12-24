@@ -1,4 +1,4 @@
-💻 Senior of CSE at KOREATECH Univ <br/>
+💻 BSc in Computer Science & Engineering, Korea University of Technology & Education <br/>
 😎 JavaScript / TypeScript / ReactJS / Django / Python / Node.js <br/>
 🦁 Like Lion 7th Member / 8th represented staff <br/>
 👨 DevelUp Excellent Mentor <br/>
