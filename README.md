@@ -2,8 +2,10 @@
 😎 JavaScript / TypeScript / ReactJS / Django / Python / Node.js <br/>
 🦁 Like Lion 7th Member / 8th represented staff <br/>
 👨 DevelUp Excellent Mentor <br/>
-😃 Startup internship in Gallary-Via <br/>
 📚 2020 NAVER Connect Foundation boostcamper <br/>
+🏢 Worked as an intern at [Gallery-via](https://gallery-via.com/) (2019.12 ~ 2020.02) <br/>
+🏢 Worked for [Standigm](https://www.standigm.com/main) (2021.05 ~ 2022. 10) <br />
+🏢 Currently working on Coupang (2022.10 ~ )<br />
 📘 [My Blog](https://velog.io/@hong7511059)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Do-ho)](https://github.com/anuraghazra/github-readme-stats)
